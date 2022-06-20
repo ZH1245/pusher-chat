@@ -1,0 +1,11 @@
+.form-container {
+  align-items: center;
+  display: flexbox;
+  justify-content: center;
+  justify-self: center;
+  /* border: 2px solid red; */
+  margin: 200px auto;
+}
+.form {
+  display: list-item;
+}

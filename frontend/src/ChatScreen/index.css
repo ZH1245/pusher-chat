@@ -1,0 +1,32 @@
+.container {
+  /* display: inline-grid; */
+  margin: 0px 20px;
+  column-gap: 50px;
+}
+/* .people {
+  border: 2px solid red;
+  margin-left: 10px;
+  grid-column-start: 1;
+  grid-column-end: 3;
+} */
+.conversations {
+  /* border: 2px solid red; */
+  grid-column-start: 3;
+  grid-column-start: 12;
+}
+/* .message-container {
+  min-height: 300px;
+  overflow: 75%;
+} */
+.header {
+  margin: 10px 0px;
+  font-size: large;
+  font-weight: bold;
+}
+
+.to {
+  text-align: left;
+}
+.from {
+  text-align: right;
+}
